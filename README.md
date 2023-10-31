@@ -1,2 +1,3 @@
 # processamento_de_imagem
 treinamento de um algoritmo de machine learning para classificação de objetos com o TeachableMachine e, no código em python (resultante do treinamento), identificando os objetos.
+Arquivos necessários para executar o código são gerados no Teachable Machine, capturando osdiversos frames que serão utilizados para reconhecer cada objeto. Após tirar os frames e testar a leitura de cada objeto, gera-se um código e  o qual será copiado para ser executado juntamente com o modelo que também estará disponivel para download no teachable machine, salvando-os na mesma pasta no Jupyter Notebook no Anaconda. Após todo esse processo instalar o Irions no celular, e testar a veracidade do código
